@@ -185,4 +185,4 @@ for skills. Company reviews (`/api/reviews`) and the resume builder / PDF export
 backend-ready but don't have dedicated frontend pages yet. These are natural next additions
 if you want to keep building this out.
 
-DO IT BY YOUR OWN AT THE END OF THE DAY SINGLA
+
